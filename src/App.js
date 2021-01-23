@@ -9,6 +9,7 @@ function App() {
         <p>
           Hi there. I am batman. Also superman. hmmmm.. href
         </p>
+        <p>Nive tutorial by the way!!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
